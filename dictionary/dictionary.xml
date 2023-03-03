@@ -2,16 +2,18 @@
 <dictionary>
   <metadata>
     <!-- Open Language Archives Community Metadata -->
-    <title>Title of Dictionary Database</title>
-    <contributor type="olac:role" code="primary investigator">Primary Investigator</contributor>
-    <contributor type="olac:role" code="annotator">Annotator #1</contributor>
-    <contributor type="olac:role" code="annotator">Annotator #2</contributor>
-    <contributor type="olac:role" code="annotator">Annotator #3</contributor>
-    <contributor type="olac:role" code="annotator">Annotator #4</contributor>
-    <contributor type="olac:role" code="annotator">Annotator #5</contributor>
-    <contributor type="olac:role" code="creater">Creator</contributor>
-    <contributor type="olac:role" code="sponsor">Sponsor</contributor>
-    <modified type="dcterms:W3CDTF">Date Modified</modified>
+    <title>Xaitsnue Community Dictionary</title>
+    <contributor type="olac:role" code="author">Robert Geary</contributor>
+    <contributor type="olac:role" code="author">Anna Macknick</contributor>
+    <contributor type="olac:role" code="author">Justin Spence</contributor>
+    <contributor type="olac:role" code="data_inputter">Chloe Oh</contributor>
+    <contributor type="olac:role" code="data_inputter">Joey Zimmerman</contributor>
+    <contributor type="olac:role" code="data_inputter">Dennis Phan</contributor>
+    <contributor type="olac:role" code="data_inputter">Tyler Lee-Wynant</contributor>
+    <contributor type="olac:role" code="data_inputter">Nora Zade</contributor>
+    <contributor type="olac:role" code="data_inputter">Anna Macknick</contributor>
+    <contributor type="olac:role" code="developer">Anna Macknick</contributor>
+    <modified type="dcterms:W3CDTF">3 March 2023</modified>
     <format type="dcterms:IMT">text/xml</format>
     <language type="olac:language" code="abc" lang="abc">Source</language>
     <language type="olac:language" code="eng" lang="eng">English</language>
