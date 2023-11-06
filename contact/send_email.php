@@ -11,7 +11,7 @@ if(isset($_POST['email'])) {
  
     // Your email goes here.
  
-    $email_to = "enter email here";
+    $email_to = "macknick@berkeley.edu";
       
  
     function died($error) {
