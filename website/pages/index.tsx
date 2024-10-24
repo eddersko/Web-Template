@@ -1,5 +1,5 @@
 import { useState, FormEvent, ChangeEvent } from "react";
-import Head from "next/head";
+import Meta from "@/components/meta";
 import Link from "next/link";
 
 const words: string[] = [
@@ -64,10 +64,7 @@ export default function Home() {
 
   return (
     <>
-      <Head>
-        <title>Xaitsnoo Community Dictionary Project</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-      </Head>
+      <Meta />
       <form id="form" onSubmit={handleSubmit}>
         <input
           id="input"
