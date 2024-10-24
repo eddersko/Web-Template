@@ -25,6 +25,9 @@ export default function App({ Component, pageProps }: AppProps) {
       <main>
         <Component {...pageProps} />
       </main>
+      <div>
+        <Link href="https://github.com/Xaitsnue-Community-Dictionary-Project/xaitsnue">Open source</Link>, a project housed in the <Link href="https://lx.berkeley.edu/">UC Berkeley Department of Linguistics</Link>.
+      </div>
     </>
   );
 }
