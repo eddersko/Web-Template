@@ -5,4 +5,4 @@ This website houses a dictionary of the Xaitsnue language created by members of 
 
 ### Website
 
-To run locally / test, run `npm install` and then `npm run dev`. It should load up at  `localhost:3000`. Refer to the [Next.js documentation](https://nextjs.org/docs) for more, we're using the pages directory at the moment.
+To run locally / test, run `npm install` and then `npm run dev`. It should load up at  `localhost:3000`. Refer to the [Next.js documentation](https://nextjs.org/docs) for more, we're using the pages directory at the moment. We recommend using [`nvm`](https://github.com/nvm-sh/nvm) to manage your Node version.
